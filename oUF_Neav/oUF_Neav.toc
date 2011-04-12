@@ -1,0 +1,20 @@
+## Interface: 40000
+## Author: Neav
+## Title: oUF_|cffCC3333N|r|cffE53300e|r|cffFF4D00a|r|cffFF6633v|r
+## RequiredDeps: oUF, !Beautycase
+## OptionalDeps: oUF_AuraWatch, oUF_SpellRange, oUF_CombatFeedback, oUF_Smooth
+
+modules\oUF_AuraWatch.lua
+modules\oUF_CombatFeedback.lua
+modules\oUF_SpellRange.lua
+modules\oUF_Smooth.lua
+
+oUF_NeavConfig.lua
+oUF_NeavTags.lua
+oUF_NeavCastbars.lua
+
+oUF_Neav.lua
+oUF_NeavRaid.lua
+oUF_NeavBoss.lua
+
+oUF_NeavWorldMarkers.lua
